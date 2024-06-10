@@ -7,12 +7,12 @@
 
 Table of Contents:
 
-1.Project Overview
-2,Data Source
-3.Tools Used
-4.Data Preparation
-5.Insights
-6.Recommendations
+Project Overview
+Data Source
+Tools Used
+Data Preparation
+Insights
+Recommendations
 
 Project Overview:
 
