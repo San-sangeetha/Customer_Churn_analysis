@@ -8,10 +8,15 @@
 Table of Contents:
 
 Project Overview
+
 Data Source
+
 Tools Used
+
 Data Preparation
+
 Insights
+
 Recommendations
 
 Project Overview:
